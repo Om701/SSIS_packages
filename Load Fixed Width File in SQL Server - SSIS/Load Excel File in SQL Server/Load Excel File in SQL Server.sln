@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Load Excel File in SQL Server", "Load Excel File in SQL Server.dtproj", "{9240A98E-5F20-45F5-9B5E-E81B1F9C960F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9240A98E-5F20-45F5-9B5E-E81B1F9C960F}.Development|Default.ActiveCfg = Development
+		{9240A98E-5F20-45F5-9B5E-E81B1F9C960F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED3143C-FCD2-4505-9BD0-959F2383C81A}
+	EndGlobalSection
+EndGlobal
